@@ -1,0 +1,60 @@
+.image
+{
+    background-image: url("");
+}
+.text
+{
+    position:absolute;
+    top:170px;
+    color:white;
+    font-size: 60px;
+    text-align: center;
+    margin-left:50px;
+}
+.btn
+{ 
+    position:absolute;
+    top:550px;
+    left:150px;
+}
+.head1
+{
+    position:absolute;
+    top:550px;
+    left:550px;
+    color:white;
+    font-weight: bolder;
+}
+.header
+{
+    margin-top:50px;
+    font-weight: bolder;
+    padding-right:30px;
+    margin-left:550px;
+}
+.para1
+{
+    margin-top:30px;
+    text-align:center;
+}
+.about-img
+{
+    margin-left:300px;
+}
+.container4
+{
+    align-items: center;
+}
+.header2
+{
+    margin-left:600px;
+    margin-top:80px;
+}
+.par3
+{
+    text-align: center;
+}
+.hea1{
+    margin-top:10px;
+}
+
